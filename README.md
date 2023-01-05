@@ -43,7 +43,9 @@ O **Vite** não vem com o gerenciador de pacote, caso não seja, logo é necess�
     
 ## Roteamento
 ### ReactRouter
+
 https://reactrouter.com/en/main
+
 **yarn add react-router-dom**
 
 **npm install react-router-dom**
@@ -53,30 +55,30 @@ Switch garante que apenas uma única rota esteja visíel no mesmo momento. Ajuda
 ## Proximos Passos
 **CSS**
 
--- Styled Components
--- Stitches
--- Radix
+- Styled Components
+- Stitches
+- Radix
 
 **Data Fetching**
 
--- SWR
--- React Query
--- GraphQL
--- uRQL
--- Apollo Client
--- Relay
+- SWR
+- React Query
+- GraphQL
+- uRQL
+- Apollo Client
+- Relay
 
 **State Management**
 
--- Keep it Simple (Context + Reducer)
--- Zustand
+- Keep it Simple (Context + Reducer)
+- Zustand
 
 **Testing**
 
--- Testing Library
--- Cypress
+- Testing Library
+- Cypress
 
 **Framework**
 
--- Next.js
--- Remix
+- Next.js
+- Remix
