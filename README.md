@@ -1,4 +1,4 @@
-<h1>React & Vite & TypeScript</html>
+<h1>React & Vite & TypeScript</h1>
 
 <p>
     Neste projeto não foi utilizado o <strong>npx create-react-app myApp</strong>
@@ -16,16 +16,13 @@
 <h2>Criando um projeto 2022</h2>
 <p>
     Em 2022 não faz mais sentido utilizar o create-react-app pois os browsers já possuem suporte ao ECMAScript Modules.
-    
-    <br />
     Opções:
     <ul>
         <li>Vite</li>
         <li>Snowpack</li>
     </ul>
-
     Browers não entendem JavaScript modernos, eles só entendem JavaScript tradicional, e por muito tempo eles também não entendiam as importações entre arquivos JavaScript. Eram utilizados os requires. Porém atualmente a grande maioria dos browsers já entendem o ESmodules (ECMAScript Modules). Por isto o Webpack não é mais necessário.
-    <br />
+    
     Por está razão está sendo utilizado o Vite e o Snowpack que utilizam desta atual atualização dos browsers que agora possuem suporte nativo ao ECMAScript Modules e só faz o restante.
     <ul>
         <li>Performatico</li>
